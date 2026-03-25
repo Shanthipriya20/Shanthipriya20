@@ -5,7 +5,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shanthipriya20&color=blue)
 <p align="center">
-<img width="200" height="300" alt="undraw_focused_m9bj" src="https://github.com/user-attachments/assets/0c00b549-3efd-4ac4-aa0a-c3e7a3f40b70" />
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f697f35-b7c0-432e-8719-75f0b70d136f" width="300"/>
+</p>
+
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/shanthi-priya20">
