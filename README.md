@@ -42,13 +42,13 @@
 Shanthi Priya:
   pronouns: "she" | "her"
   located_in: Mumbai, India
-  title: "Research Assistant - FOSSEE , IIT Bombay | VLSI & IC Design Enthusiast"
+  title: "Research Engineer - FOSSEE , IIT Bombay | VLSI & IC Design Enthusiast"
 
   skills:
     - RTL Design: [Verilog HDL, Digital Design, Simulation & Verification]
     - Analog & Mixed-Signal Basics
     - EDA Tools: [eSim, Ngspice, KiCad, Vivado, Quartus Prime, Multisim, Proteus]
-    - Programming: [C]
+    - Programming: [C], [Verilog]
 
   education:
     - "Bachelor's in Electronics and Communication Engineering"
@@ -56,7 +56,8 @@ Shanthi Priya:
     -  2021-2025 
 
   technical_experience:
-    - "Research Assistant - FOSSEE eSim, IIT Bombay"
+    - "Speaker - Open Source Summit India - 2026"
+    - "Research Assistant (Trainee)- FOSSEE eSim, IIT Bombay"
     - "Contributor - Open Source EDA Tool Development (eSim)"
     - "Semester long Intern IIT Bombay - Digital IC Design
 
@@ -70,7 +71,7 @@ Shanthi Priya:
 
   fields_of_interest:
     - "VLSI Design"
-    - "Digital IC Design"
+    - "Digital IC and IP Design"
     - "Analog & Mixed-Signal IC Design"
     - "Semiconductor Design & EDA Tools"
 
@@ -90,6 +91,7 @@ Shanthi Priya:
   current_focus:
     - "Open-source EDA Development (eSim)"
     - "RTL Optimization & Digital IC Design"
+    - "PDK comparision study (sky130 - ihp132)
    
   contact:
     - LinkedIn: "linkedin.com/in/shanthi-priya20"
